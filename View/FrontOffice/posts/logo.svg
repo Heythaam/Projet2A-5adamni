@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="182" height="44" viewBox="0 0 182 44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+      .cls-3 {
+        font-size: 48px;
+        fill: #bd1010;
+        font-family: "Berlin Sans FB";
+      }
+
+      .cls-2 {
+        font-size: 48px;
+        fill: #fff;
+        font-family: "Berlin Sans FB";
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" y="5" width="50" height="39"/>
+  <text id="_5a" data-name="5a" class="cls-3" x="0.645" y="38.95">5a</text>
+  <text id="damni" class="cls-2" x="52.645" y="38.95">damni</text>
+</svg>

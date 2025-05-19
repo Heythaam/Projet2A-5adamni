@@ -1,0 +1,76 @@
+.post-actions-container {
+    display: flex;
+}
+
+.post-actions-container .post-actions-delete {
+    cursor: pointer;
+    margin-right: 10px;
+}
+.post-actions-container .post-actions-edit {
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.save-post {
+    display: none;
+    padding: 5px 15px;
+    background-color: #C8102E;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 10px; /* Adjust margin as needed */
+}
+
+.comment_actions .comment-actions {
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.dislike-button {
+    background-color: #0000ff; /* Blue */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.dislike-button:hover {
+    background-color: #000099; /* Darker Blue */
+}
+
+.dislike-button:active {
+    background-color: #000066; /* Even Darker Blue */
+}
+
+.like-button {
+    background-color: #ff0000; /* Red */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.like-button:hover {
+    background-color: #cc0000; /* Darker Red */
+}
+
+.like-button:active {
+    background-color: #990000; /* Even Darker Red */
+}
