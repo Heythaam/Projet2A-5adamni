@@ -44,5 +44,5 @@
 
 Watch the demo video below:
 
-(https://youtu.be/YQq8zh531mQ)
+[![Watch the video](https://youtu.be/YQq8zh531mQ)
 
