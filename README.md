@@ -1,6 +1,6 @@
 # 5adamni – Online Job Search Platform
 
-**Projet2A-5adamni** is a web application developed as part of a 2A academic project. It serves as an online platform to help job seekers connect, share opportunities, and communicate effectively.
+**5adamni** is a web application developed as part of a 2A academic project. It serves as an online platform to help job seekers connect, share opportunities, and communicate effectively.
 
 ---
 
@@ -44,5 +44,5 @@
 
 Watch the demo video below:
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://youtu.be/YQq8zh531mQ)
+(https://youtu.be/YQq8zh531mQ)
 
